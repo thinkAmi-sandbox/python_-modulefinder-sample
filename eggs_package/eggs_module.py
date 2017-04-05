@@ -1,0 +1,2 @@
+def eggs():
+    print('eggs')
